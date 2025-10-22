@@ -1,0 +1,14 @@
+# Bibliotecas necessárias para o projeto Titanic
+
+# Manipulação de dados
+pandas
+
+# Machine Learning e pré-processamento
+scikit-learn
+
+# Leitura/escrita de arquivos Excel (.xlsx)
+openpyxl
+
+# Visualização de dados (para notebooks e análises futuras)
+matplotlib
+seaborn
